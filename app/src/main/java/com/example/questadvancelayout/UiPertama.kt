@@ -41,6 +41,8 @@ fun AktifitasPertama(modifier: Modifier) { Column(modifier = Modifier.padding(to
         colors = CardDefaults.cardColors(
             containerColor = Color.Green
         )) {
+        Row() {
+        }
     }
 }
 }
